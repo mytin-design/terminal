@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    background: rgba(5, 5, 67, 0.916);
+}
+.main {
+    margin: 50px auto;
+    width: 60%;
+    background-color: #333;
+}
+
+.header {
+    border-top: 2px solid;
+    background: #222;
+    display: flex;
+    gap: 5px;
+    font-size: 9px;
+    padding: 5px;
+    color: #fff;
+    
+}
+
+p {
+    padding: 5px;
+}
+
+
+.v {
+    padding: 3px;
+    background-color: #fff;
+    border-radius: 10px;
+    color: #000;
+}
+
+.an {
+    padding: 0px 0px 0px 10px;
+    display: flex;
+    gap: 5px;
+}
+
+
+.margin-top {
+    margin-top: 10px;
+}
+.time {
+    color: #eee;
+}
+
+.server {
+    color: cyan;
+}
+
+.ifChange {
+    color: rgb(197, 151, 240);
+}
+
+.file-type {
+    color:  rgb(197, 151, 240);
+}
+.fileType {
+    color: #eee;
+}
+
+.changeNum { 
+color: rgb(246, 218, 181);
+}
